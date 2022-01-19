@@ -1,4 +1,4 @@
-# overzicht.html
+## Overzicht van terminologie
 
 1. Back-court. Back-court wordt gefloten als een speler met de bal over de middenlijn gaat van de aanvalszijde naar de verdedigingszijde.
 2. Quarter. Een quarter is een spelperiode van 10 (in de FIBA) of 12 (in de NBA) minuten.
