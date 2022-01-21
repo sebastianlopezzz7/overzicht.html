@@ -17,3 +17,18 @@
 15. Persoonlijke fout: Dit type fout komt het meeste voor in een wedstrijd en wordt toegekend aan een veldspeler die zich schuldig maakt aan illegaal verdedigen, duwen, ongeoorloofd gebruik van de handen etc. Een persoonlijke fout wordt ook wel een 'P' genoemd. Een speler met vijf persoonlijke fouten moet worden gewisseld en wordt daarbij uitgesloten van deelname aan de rest van de wedstrijd.
 16. Technische fout: Wanneer de spelers op of naast het veld, dan wel de coach onverantwoord gedrag vertoont tegenover het publiek, zijn tegenstanders, de jurytafel of de scheidsrechters. Onverantwoord gedrag kan worden uitgelegd als herhaald commentaar op de wedstrijdleiding of het gebruiken van obscene taal en/of gebaren.
 
+   <header>
+<a href="https://sebastianlopezzz7.github.io/">1</a>
+
+
+<a href="beschrijvingbasketball.html">2</a>
+
+
+<a href="hetspel.html">3</a>
+
+
+<a href="internationaalbasketbal.html">4</a>
+
+
+<a href="overzicht.html">5</a>
+  </header>
