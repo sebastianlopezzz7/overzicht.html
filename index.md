@@ -18,17 +18,5 @@
 16. Technische fout: Wanneer de spelers op of naast het veld, dan wel de coach onverantwoord gedrag vertoont tegenover het publiek, zijn tegenstanders, de jurytafel of de scheidsrechters. Onverantwoord gedrag kan worden uitgelegd als herhaald commentaar op de wedstrijdleiding of het gebruiken van obscene taal en/of gebaren.
 
    <header>
-<a href="https://sebastianlopezzz7.github.io/">1</a>
-
-
-<a href="beschrijvingbasketball.html">2</a>
-
-
-<a href="hetspel.html">3</a>
-
-
-<a href="internationaalbasketbal.html">4</a>
-
-
-<a href="overzicht.html">5</a>
+<a href="https://sebastianlopezzz7.github.io/">[..Naar Hoofdpagina..]</a>
   </header>
